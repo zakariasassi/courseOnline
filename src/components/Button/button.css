@@ -1,0 +1,20 @@
+.btn-class{
+    background-color: rgb(41, 63, 210);
+    color:rgb(244, 240, 240);
+    height: 40px;
+    width: 150px;
+    font-size: 14px;
+    border: 0px;
+    margin: 20px;
+    cursor:pointer;
+    border-radius: 5px ;
+    -webkit-border-radius: 5px ;
+    -moz-border-radius: 5px ;
+    -ms-border-radius: 5px ;
+    -o-border-radius: 5px ;
+}
+
+.btns-cls{
+    display: flex;
+    flex : row
+}
